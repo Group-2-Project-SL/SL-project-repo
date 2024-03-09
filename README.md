@@ -1,1 +1,1 @@
-# SL-project-repo
+# Software Lab - Project Repository
